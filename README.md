@@ -2,3 +2,4 @@
 - 👀 I’m interested in Python, Video Games, and Anime
 - 🌱 I’m currently learning C and Vue.Js
 - 📫 How to reach me the.dyvision@gmail.com
+- 👨🏻‍💻 Find my projects at https://core.dyv.fm
