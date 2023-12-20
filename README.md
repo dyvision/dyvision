@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @dyvision
-- 👀 I’m interested in Python, Video Games, and Anime
-- 🌱 I’m currently learning C and Vue.Js
+- 👋🏻 Hi, I’m @dyvision
+- 👀 I’m self taught and build full platforms
+- 👌🏻 Sometimes I build simple Python tools that I release to the public
 - 📫 How to reach me the.dyvision@gmail.com
 - 👨🏻‍💻 Find my projects at https://core.dyv.fm
